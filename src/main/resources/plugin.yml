@@ -1,0 +1,7 @@
+name: DoublePendulum
+version: '${project.version}'
+main: com.heledron.minecraft.double_pendulum.DoublePendulumPlugin
+api-version: 1.18
+commands:
+  double_pendulum:
+    usage: /double_pendulum scene1|scene2|scene3
